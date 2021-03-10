@@ -22,9 +22,10 @@ Use multiple animations together.
 <img src="/results/screenshot_1.jpg" width="260">&emsp;<img src="/results/screenshot_2.jpg" width="260">
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="/results/screenshot_1.jpg">
-    <source src="results/video.mp4" type="video/mp4">
+    <source src="/results/video.mp4" type="video/mp4">
   </video>
 </figure>
+
 ## License
 ```
 Copyright 2020 The Android Open Source Project
